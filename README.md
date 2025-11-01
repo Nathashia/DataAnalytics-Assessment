@@ -1,8 +1,8 @@
 ## Introduction
 
-This repository contains solutions to a series of SQL-based data analytics assessment questions designed to analyze customer and transaction data within a financial services context. The goal of these analyses is to provide actionable business insights that support customer segmentation, product cross-selling, customer engagement, and lifetime value estimation.
+This repository contains solutions to a series of SQL-based data analytics questions designed to analyze customer and transaction data within a financial services context. The goal of these analyses is to provide actionable business insights that support customer segmentation, product cross-selling, customer engagement, and lifetime value estimation.
 
-The four assessment tasks focus on:
+The four tasks focus on:
 
 1. **Identifying inactive savings or investment accounts** — to highlight customers with no inflow transactions over the past year, supporting re-engagement strategies.
 2. **Finding high-value customers with multiple financial products** — to identify customers holding both savings and investment plans, enabling targeted cross-selling opportunities.
